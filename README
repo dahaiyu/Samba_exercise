@@ -1,6 +1,6 @@
 
 ixgbe Linux* Base Driver for Intel(R) Ethernet Network Connections
-================================================================== 
+==================================================================
 
 ================================================================================
 
@@ -131,9 +131,7 @@ Machine (VM) is bound to it. Doing so will cause the port to appear to hang.
 note:
 25
 (more)prevalent(This condition is more prevalent in women than in men...)
-<prevail,A similar situation prevails in America> buddhism[ˈbʊdɪzəm] christian islam 
-muse(Many of the papers muse on the fate of the President.)
-
+<prevail,A similar situation prevails in America> 
 contemplate(temple,If you contemplate an idea or subject, you think about it carefully for a long time.) 
 dilute unveil(a ceremony to unveil a monument to the victims,unveiled his new strategy this week) compulsory 
 reluctant(,do it slowly and without enthusiasm.relevant,Make sure you enclose all the relevant certificates) 
@@ -232,6 +230,7 @@ Lewis emerges as a composer of distinction>
 predecessor(ancestor pioneer) sparkle<> 
 saturate(be ~ed with oil,If people or things saturate a place or object, 
 they fill it completely so that no more can be added.
+As the domestic market becomes saturated, firms begin to export the product.
 ) overwhelm<overwhelm the weakened enemy.> medium<>
 
 Adapter teaming is implemented using the native Linux Channel bonding module. 
@@ -285,19 +284,30 @@ NOTES:
   and/or the direct attach cables listed below.
 (41)
 note:
-overflow overcome authorize appease<reassure> urge transcend transfer(v.n) disregard(~ the advice of his executives) transmit(~ disease)
-purchase timid(tame) endow(with) signify condemn(denounce) confuse(~ with) inherent 
+overflow overcome authorize 
+appease(If you try to appease someone, you try to stop them from being angry by giving them what they want.)
+<reassure,If you reassure someone, you say or do things to make them stop worrying about something.
+I tried to reassure her, 'Don't worry about it.'> 
+urge transcend transfer(v.n, technology transfer) disregard(~ the advice of his executives) 
+transmit(The game was transmitted live in Spain and Italy,~ disease)
+juror(A juror is a member of a jury.)
+purchase timid(tame rabbit) endow(with) signify(Two jurors signified their dissent) condemn(denounce,~ the regime) 
+confuse(~ with) inherent 
 overseas(~ visitors) <definitive>(~ answer\book) <definite(firm and clear, and unlikely to be changed.~ answer
 proof improvement)>
-contribute impair incidentally(~,why have you come) foster intuition(tuition) retain concern(v.n  expressed concern about) 
+contribute impair incidentally(~,why have you come) foster(adj,Little Jack was placed with foster parents...,v,sb,sth,
+To foster something such as an activity or idea means to help it to develop.) intuition(tuition) 
+retain(The interior(n,adj) of the shop still retains a nineteenth-century atmosphere...) concern(v.n  expressed concern about) 
 adolescent <refrain>(~ from ,refrained from making any comment)
 restrain(~ sb from doing,restrain sb zhu zhi fa sheng) dazzle 
 constrain(~ed by family commitments,xian zhi fa sheng)
 hoist bachelor revenge(retort<>, accused her of trying to revenge herself on her former lover,
 take revenge on the 14-year-old) 
 avenge (avenging his daughter's death)
-barrel prohibit inhibit extract proximity<to > kidnap prospect considerate
-significance contrasting 
+barrel prohibit inhibit(~ digestion) extract 
+proximity[prɒkˈsɪməti]<Proximity to a place or person is nearness to that place or person.
+ > kidnap prospect considerate
+significance(Ideas about the social significance of religion have changed over time...) contrasting 
 
 - When 82599-based SFP+ devices are connected back to back, they should be
   set to the same Speed setting via ethtool. Results may vary if you mix
@@ -335,18 +345,25 @@ testing. Not all modules are applicable to all devices.
 note:
 43
 accuse prior(prior commitment,Prior to his Japan trip, he went to New York) 
-overwhelming lure strand procede<？(precede(precede them from the room) proceed) 
-defendant administer essence 
+overwhelming(~ superiority) lure strand(a grey ~ of hairs) <？(precede(precede them from the room) proceed) 
+defendant administer(v,The plan calls for the UN to administer the country until elections can be held.
+If a doctor or a nurse administers a drug, they give it to a patient.
+) essence(a few drops of vanilla essence)
 <dividend(The first quarter dividend)> flexible <ultimate> betray 
-characterize scramble surge<n,vrecent ~ in inflation> reveal<>conceal 
+characterize(Both companies have characterized the relationship as friendly,This election campaign has been characterized by violence...)
+scramble(If you scramble over rocks or up a hill,~ for a basketball) surge<n,v,recent ~ in inflation> 
+reveal<To reveal something means to make people aware of it.>conceal 
+conscious(Someone who is conscious is awake rather than asleep or unconscious.,be ~/aware of )
 reassure<If you reassure someone, you say or do things to make them stop worrying about something.> 
 designate(set aside for that purpose) console 
-duplicate concerning considering (prep.n It is particularly concerning that) hierachy embody shove 
+duplicate concerning  (prep.n It is particularly concerning that) hierachy embody shove considering(considering the situation in June)
 mingle<cheers and applause mingled,mingle with other people> 
-portray paralyse(~ed by parachute) refund hamper 
+portray paralyse(~ed by ,parachute) refund hamper(v,n,The bad weather hampered rescue operations, a picnic hamper)
 <permeate Bias against women permeates every level of the judicial system>
-exquisite fancy installment lawsuit(culminate in ~ against government) cue(v,n)<sue,sue sb for sth> 
-endeavor(made an [earnest](~ woman) endeavor to persuade her) infringe<infringes a law or a rule> 
+exquisite fancy installment lawsuit(culminate in a ~ against government) cue(v,n,waiting for their cues)<sue,sue sb for sth> 
+endeavor(made an [earnest](~ woman) endeavor to persuade her) 
+infringe<infringes a law or a rule,If something infringes people's rights,
+it interferes with these rights and does not allow people the freedom they are entitled to.> 
 spray
 
 Supplier	Type					Part Numbers --------	----					------------
@@ -383,12 +400,26 @@ HP		1000BASE-SX SFP				453153-001
 
 note:
 100
-inaugurate cherish mediate instantaneous(Airbags inflate instantaneously on impact)
- <intrigue> slump<Net profits slumped by 41%,~ into a chair>(slash ~prices) 
-regulate regular verge(<fringe(n,adj), leather fringes,a small ~ group>) 
-baffle<~ experts>(afflict)<>slack(far(much) too ~) stubborn intermittent<~ rain> 
+inaugurate(The new President will be inaugurated on January 20.If you inaugurate a new system or service, you start it.)
+cherish(These people cherish their independence and sovereignty[ˈsɒvrənti].) 
+medium mediate(vi,vt,If someone mediates between two groups of people, or mediates an agreement between them, 
+they try to settle an argument between them by talking to both groups and trying to find things that they can both agree to.)
+mediator[ˈmi:dieɪtə(r)] instantaneous(Airbags inflate instantaneously on impact)
+ <intrigue,n, political ~,v,If something, especially something strange, intrigues you, it interests you and you want to know more 
+ about it.> slump<Net profits slumped by 41%,~ into a chair>(slash ~prices) 
+regulate regular(~ exercise) verge(The country was on the verge of becoming prosperous and successful...
+<fringe(n,adj), leather fringes,a small ~ group>) 
+baffle<~ experts>(afflict,If you are afflicted by pain, illness, or disaster, it affects you badly and makes you suffer.
+)
+slack(far(much) too ~) intermittent<~ rain> 
+stubborn(Someone who is stubborn or who behaves in a stubborn way is determined to do what they want and 
+is very unwilling to change their mind.He is a stubborn character) 
 plead(~ sb to do,Mr Burke, pleading poverty(yi shen mo wei li you), changed his mind)
-(appeal to sb for sth,appeal sth) ascribe reception(wait at the ~ for me.) blunt(be ~ about his personal life,~ knife) 
+(appeal to sb for sth,appeal sth) 
+ascribe(If you ascribe an event or condition to a particular cause, you say or consider that it was caused by that thing.
+) 
+reception(wait at the ~ for me.,Adjust the <aerial>'s position and direction for the best reception.) 
+blunt(be ~ about his personal life,~ knife) 
 clutch articulate(v,~ your ideas,adj ~ woman) eloquent(make an ~ speech,~ about his love of books) intricate perpetual inject embed 
 addict(TV drug ~) decisive stroke 
 illuminate(luminous,~ intensity) diminish confidential rash arbitrary assault
