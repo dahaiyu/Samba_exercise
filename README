@@ -5,7 +5,6 @@ ixgbe Linux* Base Driver for Intel(R) Ethernet Network Connections
 ================================================================================
 
 March 21, 2017
-
 ================================================================================
 
 Contents
@@ -61,7 +60,9 @@ handicap(n overcome his ~,v Stress may seriously handicap some students) contrar
 hinge plensant sensation(lost his all ~,create a ~)
 (sense(n,v,She probably sensed that I wasn't telling her the whole story) 
 sensational<You look sensational in that dress!>wonderful\glorious)
-(sixth sense) (elegence grace)
+(sixth sense) (elegance<The furniture managed to combine practicality with elegance.> 
+grace<a quality of behaviour that is polite and pleasant and deserves respect>
+He conducted himself with grace and dignity throughout the trial.)
 
 Disable LRO if enabling ip forwarding or bridging
 -------------------------------------------------
