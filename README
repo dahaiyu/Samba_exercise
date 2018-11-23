@@ -25,14 +25,34 @@ Contents
 
 Important Notes
 ---------------
+result of not disabling LRO when combined with ip forwarding or bridging can be
+low throughput or even a kernel panic.
+The ixgbe driver supports the Large Receive Offload (LRO) feature.
+This option offers the lowest CPU utilization for receives but is completely
+incompatible with *routing/ip forwarding* and *bridging*. If enabling ip
+forwarding or bridging is a requirement, it is necessary to disable LRO using
+compile time options as noted in the LRO section later in this document. The
+result of not disabling LRO when combined with ip forwarding or bridging can be
+low throughput or even a kernel panic.
+
+In a virtualized environment, on Intel(R) Ethernet Server Adapters that support 
+SR-IOV, the virtual function (VF) may be subject to malicious behavior. 
+Software-generated layer two frames, like IEEE 802.3x (link flow control), IEEE 
+802.1Qbb (priority based flow-control), and others of this type, are not 
+expected and can throttle traffic between the host and the virtual switch, 
+reducing performance. To resolve this issue, configure all SR-IOV enabled ports 
+for VLAN tagging. This configuration allows unexpected, and potentially 
+malicious, frames to be dropped.
+
+Overview
 
 note:
 53
-repository[rɪˈpɒzətri] /commit /Issue /star /Fork /Pull Request/Watch /Gist( I guess I got the gist of it.) 
+repository[rɪˈpɒzətri] /commit /Issue /star /Fork /Pull Request/Watch /Gist(thrust, I guess I got the gist of it.) 
 dropdown/blame/raw/normal view/ history/incorporated(The new cars will incorporate a number of major improvements.)/clipboard/profile/
 deploy(to move soldiers or weapons into a position where they are ready for military action)
 They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
-
+backend frontend rookie[ˈrʊki](I am quite rookie on this.)
 Bravo[ˌbrɑ:ˈvəʊ]!
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and 
 requesting that someone review and pull in your contribution and merge them into their branch.
